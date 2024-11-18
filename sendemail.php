@@ -7,7 +7,7 @@
 
 
     $to             = 'kuchianil1996@gmail.com'; //put your email here
-    $email_template = 'home.html';  // will find it on email-templates/ directory
+    $email_template = 'index.html';  // will find it on email-templates/ directory
 
     $subject    = "SUBJECT";
     $email      = strip_tags($_POST['email']);
